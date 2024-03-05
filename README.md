@@ -1,6 +1,6 @@
-#Data Analyst
+###Data Analyst
 
-####Education
+###Education
 Northeastern University-Master in Applied Machine Intelligence(Sep 2023-May 2025)
 GITAM University-B.Tech in Electronics & Communication Engineering(July 2020)
 
