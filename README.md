@@ -1,11 +1,11 @@
-###Data Analyst
+### Data Analyst
 
-###Education
+### Education
 Northeastern University-Master in Applied Machine Intelligence(Sep 2023-May 2025)
 GITAM University-B.Tech in Electronics & Communication Engineering(July 2020)
 
 
-###Work Experience
+### Work Experience
 Senior Software Engineer @ Capgemini(June 2021- July 2023)
 -	Developed and decommissioned over twenty-five applications.
 -	Engaged in data analysis of tickets and provided permanent solutions to address recurring issues.
@@ -18,7 +18,7 @@ Senior Software Engineer @ Capgemini(June 2021- July 2023)
 -	Generated various token numbers with random numbers for events conducted using Python.
 
 
-###Technical Skills
+### Technical Skills
 -	Data Analysis: Data cleaning, EDA, Data Manipulation, Predictive Modelling.
 -	Business Intelligence: Power BI, MS Office
 -	Machine Learning: Statistical Modeling, Classification using Artificial Neural Networks, Regression Modeling, Natural Language Processing, Predictive Analysis.
@@ -27,7 +27,7 @@ Senior Software Engineer @ Capgemini(June 2021- July 2023)
 -	Soft Skills: Analytical thinking, Project Management, Effective communication, Data Interpretation.
 -	Front-end: HTML, CSS, JavaScript, Bootstrap, Vue.js.
 
-###PATENTS
+### PATENTS
 -	A Novel Method of Effective Sentiment Analysis System by Improved Relevance Vector Machine (International Patent)
 -	20-180 MHZ Frequency Band Electrically Tune Able Antenna for Radiation Immunity Testing
 
